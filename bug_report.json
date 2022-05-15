@@ -1,9 +1,9 @@
 {
-'1.': 'Summary (Заголовок)',
-'2.': 'Environment (окружение)',
-'3.': 'Description (Описание)',
-'4.': 'Actual/expected result (фактический/ожидаемый результат)',
+'1.': 'Summary',
+'2.': 'Environment',
+'3.': 'Description',
+'4.': 'Actual/expected result',
 '5.': 'Attachments',
-'6.': 'Priority (приоритет)'
-'7.': 'Severity (серьёзность)'
+'6.': 'Priority'
+'7.': 'Severity'
 }
